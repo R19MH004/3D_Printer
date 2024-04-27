@@ -1,4 +1,5 @@
 # 3D_Printer
+For software use Marlin bugfix 1.1
 This repository is of what all code I have used to make a 3D Printer.
 In this project I have used the following items
 1.Nema 17, 4KG-cm Bipolar Stepper Motor
